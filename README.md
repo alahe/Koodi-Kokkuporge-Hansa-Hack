@@ -7,33 +7,38 @@ Võistlus kestab kokku 4 tundi, kus vähemalt kaks osavõtjat/meeskonda - üks k
 
 
 ## Reeglid:
-### 1. Ülesannete Esitamine ja Aktsepteerimine:
+### 1. Võistluse kestus ja struktuur
+- Võistlus kestab kokku 4 tundi.
+- Iga osavõtja/meeskond lahendab 2 ülesannet.
+- Iga ülesande programmeerimisseanss kestab 1 tund, millele järgneb 1-tunnine hindamis- ja aruteluperiood.
+- Programmeerimine toimub paralleelselt, kus mõlemad osavõtjad/meeskonnad töötavad samaaegselt.
+- Kui ilmnevad tehnilised probleemid tuleb sellest kohe teada anda.
+
+### 2. Ülesanded:
 - Iga osavõtja/meeskond esitab ühe ülesande, mida nad peavad suutma lahendada 1 tunni jooksul.
-- Ülesanded ei tohi sisaldada piiravaid tingimusi, nagu konkreetse andmebaasi kasutamise nõue.
+- Ülesanded ei tohi sisaldada piiravaid tingimusi, nagu näiteks konkreetse andmebaasi kasutamise nõue jne.
 - Vastas-osavõtja/meeskond peab ülesande aktsepteerima vähemalt 2 nädalat enne võistlust.
 
-### 2. Programmeerimise Seansid:
-- Iga ülesande lahendamiseks on aega 1 tund.
-- Programmeerimine toimub paralleelselt, kus mõlemad osavõtjad/meeskonnad töötavad samaaegselt.
-- Kogu programmeerimisprotsess kuvatakse reaalajas suurele ekraanile.
-
-### 3. Koodi Kirjutamine ja Ressursside Kasutamine:
+### 3. Programmeerimine
 - Koodi kopeerimine on keelatud, välja arvatud URL-id, sertifikaadid ja paroolid.
 - Lubatud on maha kirjutada või kasutada spikreid.
 - AI kasutamine on lubatud, kuid AI-promptide kopeerimine on keelatud.
 - Võib kasutada open source komponente, kuid ette kirjutatud enda komponente kasutada ei tohi.
 
-### 4. Hindamine ja Arutelu:
-- Pärast iga programmeerimisseanssi toimub tulemuste läbivaatamine ja hindamine, millele järgneb arutelu.
-- Iga meeskond esitab oma lahenduse koos selgitustega hindamiseks.
+### 4. Vaadeldavus
+- Kogu programmeerimisprotsess kuvatakse reaalajas suurele ekraanile, et teised osalejad ja pealtvaatajad saaksid jälgida.
+
+### 5. Hindamine ja arutelu:
+- Pärast iga programmeerimisseanssi toimub tulemuste läbivaatamine, arutelu ja hindamine kõigi osalejate poolt.
+- Iga osavõtja/meeskond esitab oma lahenduse koos selgitustega hindamiseks.
 - Hindamise ja arutelu jaoks on ette nähtud umbes 1 tund.
 
-
-### 5. Võistluse Lõpp:
+### 6. Võistluse Lõpp:
 - Võistlus lõpeb pärast teise ülesande hindamist ja arutelu.
 - Võitjat ei kuulutata; rõhk on õppimisel ja kogemuste jagamisel.
 
 
+---
 
 > [!NOTE]
-> Võistlus on mõeldud oskuste arendamiseks ja kogemuste jagamiseks, mitte ainult võitmiseks.
+> See võistlus on suurepärane võimalus näidata oskusi nii low-code/no-code kui ka traditsioonilises programmeerimises, samuti julgustab see loovust ja innovatsiooni. 
