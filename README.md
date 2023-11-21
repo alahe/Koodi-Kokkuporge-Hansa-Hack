@@ -1,4 +1,4 @@
-# Koodi-Kokkuporge-Hansa-Hack
+# Koodi kokkupõrge: Hansa Hack    ( KoKo-HaHa )
 Programmeerimisvõistlus, kus tarkvara insenerid võtavad mõõtu low-code/no-code VS traditsioonilise programmeerimise kiiruses. 
 
 
