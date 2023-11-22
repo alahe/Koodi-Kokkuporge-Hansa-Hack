@@ -14,6 +14,7 @@ Võistlus kestab kokku 4 tundi, kus vähemalt kaks osavõtjat/meeskonda - üks k
 - Programmeerimine toimub paralleelselt, kus mõlemad osavõtjad/meeskonnad töötavad samaaegselt.
 - Kui ilmnevad tehnilised probleemid tuleb sellest kohe teada anda.
 - Osaleja vastutab ise enda kasutavata riistvara ja tarkvara litsentside eest.
+- Programmeerimisesessionide ajal osalejaid segada ei tohi.(iga sekund on tähtis!)
 
 ### 2. Ülesanded:
 - Iga osavõtja/meeskond esitab ühe ülesande, mille nad on ise lahendanud 1 tunni jooksul.
@@ -27,8 +28,7 @@ Võistlus kestab kokku 4 tundi, kus vähemalt kaks osavõtjat/meeskonda - üks k
 - Lubatud on maha kirjutada või kasutada spikreid.
 - AI kasutamine on lubatud, kuid AI-promptide kopeerimine on keelatud.
 - Võib kasutada open source komponente, kuid ette kirjutatud enda komponente kasutada ei tohi.
-- Programmeerimisesessiooni ajal küsimustele ei vastata.
-- Programmeerimisessioonide ajal 
+- Programmeerimisesessiooni ajal küsimustele ei vastata. 
 
 ### 4. Vaadeldavus
 - Kogu programmeerimisprotsess kuvatakse reaalajas suurele ekraanile, et teised osalejad ja pealtvaatajad saaksid jälgida.
