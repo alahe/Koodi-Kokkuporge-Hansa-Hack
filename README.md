@@ -16,10 +16,11 @@ Võistlus kestab kokku 4 tundi, kus vähemalt kaks osavõtjat/meeskonda - üks k
 - Osaleja vastutab ise enda kasutavata riistvara ja tarkvara litsentside eest.
 
 ### 2. Ülesanded:
-- Iga osavõtja/meeskond esitab ühe ülesande, mida nad peavad suutma lahendada 1 tunni jooksul.
+- Iga osavõtja/meeskond esitab ühe ülesande, mille nad on ise lahendanud 1 tunni jooksul.
 - Ülesanded ei tohi sisaldada piiravaid tingimusi, nagu näiteks konkreetse andmebaasi kasutamise nõue jne.
 - Vastas-osavõtja/meeskond peab ülesande aktsepteerima vähemalt 2 nädalat enne võistlust.
-- Ülesannete kohta tüpsustavaid küsimusi saab esitada enne võistlust. 
+- Ülesannete kohta tüpsustavaid küsimusi saab esitada enne võistlust.
+- Soovitav on enne võistlust ülesanded ära lahendada.
 
 ### 3. Programmeerimine
 - Koodi kopeerimine on keelatud, välja arvatud URL-id, sertifikaadid ja paroolid.
@@ -31,6 +32,7 @@ Võistlus kestab kokku 4 tundi, kus vähemalt kaks osavõtjat/meeskonda - üks k
 
 ### 4. Vaadeldavus
 - Kogu programmeerimisprotsess kuvatakse reaalajas suurele ekraanile, et teised osalejad ja pealtvaatajad saaksid jälgida.
+- HIndamisprotsess on avalik ja vaadeldav suurel ekraanil
 
 ### 5. Hindamine ja arutelu:
 - Pärast iga programmeerimisseanssi toimub tulemuste läbivaatamine, arutelu ja hindamine kõigi osalejate poolt.
